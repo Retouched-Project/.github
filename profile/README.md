@@ -3,7 +3,10 @@
 </p>
 
 > [!NOTE]
-> **The Retouched Project and its repositories are not officially supported Nitrome Ltd. or Infrared5 Inc. products.**
+> **The Retouched Project and its repositories are not officially supported Nitrome Ltd. or Infrared5 Inc. products.**\
+> Several non-Nitrome games supported Brass Monkey, including Rogue Soul, Red Rogue, and in-house titles like Tank vs Alien. 
+> Their SWF files were never archived and are currently lost. 
+> If you have old cached copies from 2012 to 2015, please contact me in any way to preserve them!
 
 The project that aims to revive Nitrome Touchy!
 
