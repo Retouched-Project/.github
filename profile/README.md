@@ -8,7 +8,7 @@
 > Their SWF files were never archived and are currently lost. 
 > If you have old cached copies from 2012 to 2015, please contact me in any way to preserve them!
 
-The project that aims to revive Nitrome Touchy!
+The project that aims to revive Nitrome Touchy/Brass Monkey!
 
 ## Credits
 The project logo uses the font ["Cosimo"](https://fontstruct.com/fontstructions/show/406218/cosimo_1) by Patrick H. Lauke (redux),  
