@@ -18,6 +18,11 @@ It aims to do this by recreating the ecosystem around Nitrome Touchy/Brass Monke
 
 The reimplementations aim to be compatible with the original apps and games.
 
+## Documentation
+
+You can find the documentation [here](https://retouched-project.github.io/docs/).
+
 ## Credits
+
 The project logo uses the font ["Cosimo"](https://fontstruct.com/fontstructions/show/406218/cosimo_1) by Patrick H. Lauke (redux),  
 licensed under [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
